@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTipsAndTricks2.Logic", "CSharpTipsAndTricks2.Logic\CSharpTipsAndTricks2.Logic.csproj", "{FC8050DB-F138-4207-B0E8-F4BFCB2FBB37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShartpTipsAndTricks2.FluentValidation", "CShartpTipsAndTricks2.FluentValidation\CShartpTipsAndTricks2.FluentValidation.csproj", "{4B33F6EF-21C4-4E7C-932E-E4BA7BFBBC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTipsAndTrick2.RangeWithTake", "CSharpTipsAndTrick2.RangeWithTake\CSharpTipsAndTrick2.RangeWithTake.csproj", "{407CBBC7-8DD2-4C88-ABC1-3DB9E3494279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTipsAndTricks2.ArgumentNullCheck", "CSharpTipsAndTricks2.ArgumentNullCheck\CSharpTipsAndTricks2.ArgumentNullCheck.csproj", "{30A01F22-F029-415E-9348-4ED107C2E100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTipsAndTrick2.UsingLetInLINQ", "CSharpTipsAndTrick2.UsingLetInLINQ\CSharpTipsAndTrick2.UsingLetInLINQ.csproj", "{D7A0A4CA-5955-45EC-AA4D-B5903879B783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTipsAndTricks2.RemoveEmptySpacesWhenSplitting", "CSharpTipsAndTricks2.RemoveEmptySpacesWhenSplitting\CSharpTipsAndTricks2.RemoveEmptySpacesWhenSplitting.csproj", "{D9C3C5C7-FF67-43FA-837D-5C90F15D3325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8050DB-F138-4207-B0E8-F4BFCB2FBB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8050DB-F138-4207-B0E8-F4BFCB2FBB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8050DB-F138-4207-B0E8-F4BFCB2FBB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8050DB-F138-4207-B0E8-F4BFCB2FBB37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B33F6EF-21C4-4E7C-932E-E4BA7BFBBC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B33F6EF-21C4-4E7C-932E-E4BA7BFBBC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B33F6EF-21C4-4E7C-932E-E4BA7BFBBC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B33F6EF-21C4-4E7C-932E-E4BA7BFBBC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407CBBC7-8DD2-4C88-ABC1-3DB9E3494279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407CBBC7-8DD2-4C88-ABC1-3DB9E3494279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407CBBC7-8DD2-4C88-ABC1-3DB9E3494279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407CBBC7-8DD2-4C88-ABC1-3DB9E3494279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A01F22-F029-415E-9348-4ED107C2E100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A01F22-F029-415E-9348-4ED107C2E100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A01F22-F029-415E-9348-4ED107C2E100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A01F22-F029-415E-9348-4ED107C2E100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A0A4CA-5955-45EC-AA4D-B5903879B783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A0A4CA-5955-45EC-AA4D-B5903879B783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A0A4CA-5955-45EC-AA4D-B5903879B783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A0A4CA-5955-45EC-AA4D-B5903879B783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C3C5C7-FF67-43FA-837D-5C90F15D3325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C3C5C7-FF67-43FA-837D-5C90F15D3325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C3C5C7-FF67-43FA-837D-5C90F15D3325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C3C5C7-FF67-43FA-837D-5C90F15D3325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790DBF99-84BA-4CBC-8CBC-F85AF7842E24}
+	EndGlobalSection
+EndGlobal
